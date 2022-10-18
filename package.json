@@ -1,0 +1,20 @@
+{
+  "name": "create-ntag-app",
+  "version": "0.1.0",
+  "description": "Create nTag apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brtmvdl/create-ntag-app.git"
+  },
+  "keywords": [],
+  "author": "Tarsis de Lima (https://github.com/brtmvdl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brtmvdl/create-ntag-app/issues"
+  },
+  "homepage": "https://github.com/brtmvdl/create-ntag-app#readme"
+}
