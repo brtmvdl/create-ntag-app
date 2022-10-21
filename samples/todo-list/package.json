@@ -1,0 +1,11 @@
+{
+  "name": "todo-list",
+  "displayName": "TODO list",
+  "private": true,
+  "scripts": {
+    "start": "ntag start"
+  },
+  "dependencies": {
+    "ntag": "^0.1.0"
+  }
+}

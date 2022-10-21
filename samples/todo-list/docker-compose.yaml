@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  todolist:
+    build: '.'
+    volumes:
+      - '.:/app'
+    ports:
+      - '80:80'
